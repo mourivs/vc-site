@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.playwright-mcp/
+.env*
+*.log
+pesquisa/
+HANDOFF-CODEX.md
+site/previews/

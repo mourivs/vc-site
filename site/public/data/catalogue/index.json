@@ -1,0 +1,27 @@
+{
+  "retrieved": "2026-10-19",
+  "artist": 4782876,
+  "artistUrl": "https://www.deezer.com/artist/4782876",
+  "total": 403,
+  "pages": [
+    "page-1.json",
+    "page-2.json",
+    "page-3.json",
+    "page-4.json",
+    "page-5.json",
+    "page-6.json",
+    "page-7.json",
+    "page-8.json",
+    "page-9.json",
+    "page-10.json",
+    "page-11.json",
+    "page-12.json"
+  ],
+  "releaseCount": 199,
+  "candidates": 509,
+  "verifiedBeforeDedup": 448,
+  "remixes": 202,
+  "unavailable": 0,
+  "coverage": "Public Deezer artist releases plus paginated searches; contributor or explicit title credit required. Not an exhaustive discography. Territory, metadata and search limits apply.",
+  "failures": []
+}

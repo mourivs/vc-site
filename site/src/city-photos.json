@@ -1,0 +1,162 @@
+{
+  "New York": {
+    "src": "/img/cities/new-york.jpg",
+    "label": "New York",
+    "author": "King of Hearts",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lower_Manhattan_from_Jersey_City_September_2020_panorama.jpg"
+  },
+  "Montes Claros": {
+    "src": "/img/cities/montes-claros.jpg",
+    "label": "Montes Claros",
+    "author": "Uirá Porã",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vista_noturna_da_Pra%C3%A7a_da_Matriz,_Montes_Claros_MG.jpg"
+  },
+  "Curitiba": {
+    "src": "/img/cities/curitiba.jpg",
+    "label": "Curitiba",
+    "author": "Wilfredor",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Curitiba_Skyline,_Parana.jpg"
+  },
+  "Teresina": {
+    "src": "/img/cities/teresina.jpg",
+    "label": "Teresina",
+    "author": "Olavomm",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Teresina_Rio_Poti.JPG"
+  },
+  "Fortaleza": {
+    "src": "/img/cities/fortaleza.jpg",
+    "label": "Fortaleza",
+    "author": "Joelkaula",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skyline_de_Fortaleza_02.jpg"
+  },
+  "Olinda": {
+    "src": "/img/cities/olinda.jpg",
+    "label": "Olinda",
+    "author": "Passarinho/Pref.Olinda",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vista_do_S%C3%ADtio_Hist%C3%B3rico_de_Olinda-2.jpg"
+  },
+  "Vila Velha": {
+    "src": "/img/cities/vila-velha.jpg",
+    "label": "Vila Velha",
+    "author": "Ricardo Freitas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Convento_da_Penha_-_Vila_Velha_-_ES_-_panoramio_(27).jpg"
+  },
+  "Joinville": {
+    "src": "/img/cities/joinville.jpg",
+    "label": "Joinville",
+    "author": "Unmoralisch",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:01_JoinvilleCentro.jpg"
+  },
+  "San Diego": {
+    "src": "/img/cities/san-diego.jpg",
+    "label": "San Diego",
+    "author": "Tuxyso",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Diego_Skyline_Panorama_2013.jpg"
+  },
+  "Monterrey": {
+    "src": "/img/cities/monterrey.jpg",
+    "label": "Monterrey",
+    "author": "Daniel Escobedo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skyline_de_Monterrey_(cropped).jpg"
+  },
+  "Caldas Novas": {
+    "src": "/img/cities/caldas-novas.jpg",
+    "label": "Caldas Novas",
+    "author": "Marianevidal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Caldas_Novas_-Lago_dos_Sonhos.jpg"
+  },
+  "São José do Rio Preto": {
+    "src": "/img/cities/sao-jose-do-rio-preto.jpg",
+    "label": "São José do Rio Preto",
+    "author": "Marcos Morelli/Prefeitura de São José do Rio Preto",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vista_A%C3%A9rea_de_S%C3%A3o_Jos%C3%A9_do_Rio_Preto.jpg"
+  },
+  "Foz do Iguaçu": {
+    "src": "/img/cities/foz-do-iguacu.jpg",
+    "label": "Foz do Iguaçu",
+    "author": "Eduarda de Aguiar Skowornski",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cataratas_do_Igua%C3%A7u_-_Foz_do_Igua%C3%A7u,_PR.jpg"
+  },
+  "Boston": {
+    "src": "/img/cities/boston.jpg",
+    "label": "Boston",
+    "author": "King of Hearts",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boston_skyline_from_Longfellow_Bridge_September_2017_panorama_2.jpg"
+  },
+  "Porto Alegre": {
+    "src": "/img/cities/porto-alegre.jpg",
+    "label": "Porto Alegre",
+    "author": "Felipe Valduga from Porto Alegre, Brazil",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Porto_Alegre_-_Brazil_Landscape-Night.jpg"
+  },
+  "Cotia": {
+    "src": "/img/cities/cotia.jpg",
+    "label": "Cotia",
+    "author": "Thiolliveira",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Cidade_De_Cotia.jpg"
+  },
+  "Thailand": {
+    "src": "/img/cities/thailand.jpg",
+    "label": "Phuket · Thailand",
+    "author": "Mussi Katz from Israel",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Phuket_old_town_(52549766215).jpg"
+  },
+  "Bali": {
+    "src": "/img/cities/bali.jpg",
+    "label": "Uluwatu · Bali",
+    "author": "Nazir Amin",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Uluwatu@bali.jpg"
+  },
+  "Balneário Camboriú": {
+    "src": "/img/cities/balneario-camboriu.jpg",
+    "label": "Balneário Camboriú",
+    "author": "Emarquetti from Itajai, Brazil",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BalnearioCamboriuSkyline.jpg"
+  },
+  "Sinop": {
+    "src": "/img/cities/sinop.jpg",
+    "label": "Sinop",
+    "author": "Orleanscba",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trevo_Sinop.jpg"
+  }
+}

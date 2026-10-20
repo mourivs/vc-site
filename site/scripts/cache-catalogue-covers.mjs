@@ -1,0 +1,6 @@
+import fs from 'node:fs/promises'
+const dir='public/data/catalogue',manifest=JSON.parse(await fs.readFile(`${dir}/index.json`,'utf8')),pages=await Promise.all(manifest.pages.map(async f=>({file:f,tracks:JSON.parse(await fs.readFile(`${dir}/${f}`,'utf8'))}))),urls=[...new Set(pages.flatMap(p=>p.tracks.map(t=>t.cover)).filter(Boolean))],cached=new Map(),failures=[]
+await fs.mkdir('public/img/catalogue',{recursive:true});let next=0
+await Promise.all(Array.from({length:8},async()=>{while(next<urls.length){const url=urls[next++],key=url.match(/cover\/([^/]+)/)?.[1];if(!key)continue;const path=`/img/catalogue/${key}.jpg`;try{try{await fs.access(`public${path}`)}catch{const r=await fetch(url,{signal:AbortSignal.timeout(25000)});if(!r.ok)throw Error(`HTTP ${r.status}`);await fs.writeFile(`public${path}`,new Uint8Array(await r.arrayBuffer()))}cached.set(url,path)}catch(e){failures.push({url,error:e.message})}}}))
+for(const p of pages){for(const t of p.tracks)if(cached.has(t.cover)){t.coverSource=t.cover;t.cover=cached.get(t.cover)}await fs.writeFile(`${dir}/${p.file}`,JSON.stringify(p.tracks))}
+await fs.writeFile('../pesquisa/catalogo/capas.json',JSON.stringify({date:'2026-10-19',cached:cached.size,total:urls.length,failures},null,2));console.log(JSON.stringify({cached:cached.size,total:urls.length,failures}))
